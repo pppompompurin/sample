@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="jjikmuck"/>
+<aop-project name="ok00"/>
+<aop-project name="0905_01_Calendar"/>
+<aop-project name="ex00"/>
+<aop-project name="ex01"/>
+<aop-project name="ex02"/>
+<aop-project name="ex04"/>
+<aop-project name="ex03"/>
+<aop-project name="Project"/>
+</aop-reference-model>

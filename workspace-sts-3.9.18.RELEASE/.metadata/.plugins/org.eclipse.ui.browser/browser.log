@@ -1,0 +1,77 @@
+
+8월 09, 2023 10:58:01.531 NEW SESSION
+8월 09, 2023 10:58:01.531 [9836:7240:0809/105801.529:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+8월 09, 2023 14:22:28.870 [9836:7240:0809/142228.870:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+8월 09, 2023 14:23:33.784 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+8월 10, 2023 16:20:19.760 NEW SESSION
+8월 10, 2023 16:20:19.760 [7792:2488:0810/162019.752:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+8월 10, 2023 16:37:39.471 [7792:6084:0810/163739.471:ERROR:mcs_client.cc(750)] Received close command, resetting connection.
+8월 10, 2023 17:13:30.677 [8552:12712:0810/171330.676:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+8월 10, 2023 17:20:20.820 [8552:12712:0810/172020.819:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+8월 10, 2023 17:20:20.820 [8552:12712:0810/172020.819:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+
+8월 22, 2023 13:25:15.994 NEW SESSION
+8월 22, 2023 13:25:15.994 [10212:960:0822/132515.969:ERROR:interface_endpoint_client.cc(702)] Message 6 rejected by interface blink.mojom.WidgetHost
+8월 22, 2023 13:25:15.995 [10212:960:0822/132515.969:ERROR:interface_endpoint_client.cc(702)] Message 7 rejected by interface blink.mojom.WidgetHost
+8월 22, 2023 13:25:15.995 [10212:960:0822/132515.969:ERROR:interface_endpoint_client.cc(702)] Message 3 rejected by interface blink.mojom.Widget
+8월 22, 2023 17:22:47.231 [10212:960:0822/172247.231:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+8월 22, 2023 18:01:58.957 [10212:960:0822/180158.957:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+8월 22, 2023 18:02:25.891 [10212:960:0822/180225.891:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.514 s for first_image_paint 0.491 s
+8월 22, 2023 18:02:26.122 [10212:960:0822/180226.122:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.514 s for first_image_paint 0.491 s
+8월 22, 2023 18:02:26.254 [10212:960:0822/180226.254:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.514 s for first_image_paint 0.491 s
+8월 22, 2023 18:02:26.362 [10212:960:0822/180226.362:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.514 s for first_image_paint 0.491 s
+8월 22, 2023 18:02:26.504 [10212:960:0822/180226.504:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.514 s for first_image_paint 0.491 s
+8월 22, 2023 18:02:26.630 [10212:960:0822/180226.630:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.514 s for first_image_paint 0.491 s
+8월 22, 2023 18:02:26.760 [10212:960:0822/180226.760:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.514 s for first_image_paint 0.491 s
+8월 22, 2023 18:02:26.920 [10212:960:0822/180226.919:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.514 s for first_image_paint 0.491 s
+8월 22, 2023 18:02:27.45 [10212:960:0822/180227.044:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.514 s for first_image_paint 0.491 s
+8월 22, 2023 18:02:27.160 [10212:960:0822/180227.159:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.514 s for first_image_paint 0.491 s
+8월 22, 2023 18:02:27.277 [10212:960:0822/180227.277:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.514 s for first_image_paint 0.491 s
+8월 22, 2023 18:02:27.386 [10212:960:0822/180227.386:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.514 s for first_image_paint 0.491 s
+8월 22, 2023 18:02:27.499 [10212:960:0822/180227.499:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.514 s for first_image_paint 0.491 s
+8월 22, 2023 18:02:27.616 [10212:960:0822/180227.616:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.514 s for first_image_paint 0.491 s
+8월 22, 2023 18:02:27.842 [10212:960:0822/180227.842:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.514 s for first_image_paint 0.491 s
+8월 22, 2023 18:02:27.959 [10212:960:0822/180227.959:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.514 s for first_image_paint 0.491 s
+8월 22, 2023 18:02:28.82 [10212:960:0822/180228.081:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.514 s for first_image_paint 0.491 s
+8월 22, 2023 18:02:29.56 [10212:960:0822/180229.056:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.514 s for first_image_paint 0.491 s
+8월 22, 2023 18:02:30.177 [10212:960:0822/180230.177:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.514 s for first_image_paint 0.491 s
+8월 22, 2023 18:02:30.294 [10212:960:0822/180230.294:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.514 s for first_image_paint 0.491 s
+8월 22, 2023 18:02:31.997 [10212:960:0822/180231.997:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.514 s for first_image_paint 0.491 s
+8월 22, 2023 18:02:33.473 [10212:960:0822/180233.473:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.514 s for first_image_paint 0.491 s
+8월 22, 2023 18:02:34.386 [10212:960:0822/180234.386:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.514 s for first_image_paint 0.491 s
+8월 22, 2023 18:43:33.776 [10212:960:0822/184333.775:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+8월 22, 2023 18:43:33.776 [10212:960:0822/184333.775:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+
+8월 29, 2023 10:37:27.977 NEW SESSION
+8월 29, 2023 10:37:27.977 [8700:4132:0829/103727.976:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+8월 29, 2023 10:54:55.543 [8700:10032:0829/105455.543:ERROR:cert_verify_proc_builtin.cc(701)] CertVerifyProcBuiltin for e2c10.gcp.gvt2.com failed:
+8월 29, 2023 10:54:55.543 ----- Certificate i=0 (CN=*.gcp.gvt2.com) -----
+8월 29, 2023 10:54:55.544 ERROR: Time is after notAfter
+8월 29, 2023 10:54:55.544 
+8월 29, 2023 10:54:55.545 
+8월 29, 2023 11:07:13.723 [8700:10032:0829/110713.723:ERROR:cert_verify_proc_builtin.cc(701)] CertVerifyProcBuiltin for beacons.gcp.gvt2.com failed:
+8월 29, 2023 11:07:13.723 ----- Certificate i=0 (CN=*.gcp.gvt2.com) -----
+8월 29, 2023 11:07:13.723 ERROR: Time is after notAfter
+8월 29, 2023 11:07:13.723 
+8월 29, 2023 11:07:13.724 
+8월 29, 2023 16:32:57.298 [8700:10032:0829/163257.297:ERROR:cert_verify_proc_builtin.cc(701)] CertVerifyProcBuiltin for beacons.gcp.gvt2.com failed:
+8월 29, 2023 16:32:57.298 ----- Certificate i=0 (CN=*.gcp.gvt2.com) -----
+8월 29, 2023 16:32:57.298 ERROR: Time is after notAfter
+8월 29, 2023 16:32:57.299 
+8월 29, 2023 16:32:57.304 
+8월 29, 2023 17:09:50.989 [8700:10032:0829/170950.989:ERROR:cert_verify_proc_builtin.cc(701)] CertVerifyProcBuiltin for e2c18.gcp.gvt2.com failed:
+8월 29, 2023 17:09:50.989 ----- Certificate i=0 (CN=*.gcp.gvt2.com) -----
+8월 29, 2023 17:09:50.990 ERROR: Time is after notAfter
+8월 29, 2023 17:09:50.990 
+8월 29, 2023 17:09:50.990 
+8월 29, 2023 17:41:19.651 [8700:10032:0829/174119.650:ERROR:cert_verify_proc_builtin.cc(701)] CertVerifyProcBuiltin for e2c49.gcp.gvt2.com failed:
+8월 29, 2023 17:41:19.651 ----- Certificate i=0 (CN=*.gcp.gvt2.com) -----
+8월 29, 2023 17:41:19.651 ERROR: Time is after notAfter
+8월 29, 2023 17:41:19.651 
+8월 29, 2023 17:41:19.651 
+8월 29, 2023 17:47:19.880 [8700:10032:0829/174719.880:ERROR:cert_verify_proc_builtin.cc(701)] CertVerifyProcBuiltin for e2c28.gcp.gvt2.com failed:
+8월 29, 2023 17:47:19.880 ----- Certificate i=0 (CN=*.gcp.gvt2.com) -----
+8월 29, 2023 17:47:19.880 ERROR: Time is after notAfter
+8월 29, 2023 17:47:19.881 
+8월 29, 2023 17:47:19.881 
